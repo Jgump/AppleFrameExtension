@@ -24,7 +24,6 @@ let package = Package(
                 exclude: [],
                 sources: nil,
                 resources: [
-                    .process("iconfont/iconfont.ttf")
                 ],
                 publicHeadersPath: nil,
                 cSettings: nil,
